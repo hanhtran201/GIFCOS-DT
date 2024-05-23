@@ -1,5 +1,5 @@
-## GIFCOS-DT: Pytorch Implementatio
-
+## GIFCOS-DT: Pytorch Implementation
+GIFCOS-DT code is developed based on FCOS code: https://github.com/zhenghao977/FCOS-PyTorch-37.2AP
 ### AP Result on Kvasir-SEG dataset
 
 |  AP   | AP25  | AP 50 | AP75  |
